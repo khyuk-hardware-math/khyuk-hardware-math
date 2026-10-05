@@ -1,7 +1,7 @@
-# ⚡ Hyuk Min (민혁) · Seoul, South Korea 🇰🇷
+# ⚡ K. Hyuk (K-Hyuk) · Cross-Border Tech & Trade Geek 🌐
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Obsession-Pure%20Mathematics%20%26%20STEM-9cf?style=for-the-badge&logo=math" />
+  <img src="https://img.shields.io/badge/Focus-Pure%20Mathematics%20%26%20STEM-0066cc?style=for-the-badge&logo=math" />
   <img src="https://img.shields.io/badge/Hardware-Shenzhen%20HQB%20Direct-black?style=for-the-badge&logo=apple" />
   <img src="https://img.shields.io/badge/Logistics-Korea%20Auto%20Fleet%20to%20Africa-red?style=for-the-badge&logo=hyundai" />
   <a href="https://wa.me/821021500690"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 ---
 
 ### 📐 Pillar 1: Pure Mathematics & Global High-Stakes Exam Engineering
-Fanatical about deep mathematical proofs, theoretical physics, and high-difficulty global competitive exams. Creator of the **[Global STEM & EdTech 200 Skills Matrix](https://github.com/hyuk-hardware-math/global-stem-edtech-skills-200)**.
+Fanatical about deep mathematical proofs, theoretical physics, and high-difficulty global competitive exams. Creator of the **[Global STEM & EdTech 200 Skills Matrix](https://github.com/khyuk-hardware-math/global-stem-edtech-skills-200)**.
 - **Hardcore STEM Solver**: India JEE Advanced (Rotational dynamics & Irodov-level physics), Korea CSAT (수능 Math 22/30 Killer calculus breakthroughs), France Baccalauréat Spécialité, US AP Calculus BC & Physics C.
 - **Language Proficiency Accelerator**: IELTS Band 8.5+ PEEL critical logic frameworks, TOEFL iBT integrated synthesis & academic lecture note-taking.
 - **Dynamic Educational Visuals**: 3Blue1Brown `Manim` animations, `GeoGebra` spatial parametric geometry, publication-grade `Typst` exam engines.
@@ -23,7 +23,7 @@ Fanatical about deep mathematical proofs, theoretical physics, and high-difficul
 Deep-rooted direct-from-source procurement from Shenzhen’s silicon capital:
 - **Exotic Developer Gear & Novel Gadgets**: Cyberpunk hardware toys, micro-computing boards, embedded sensors, specialized testing tools.
 - **Grade-A & Certified Second-Hand iPhone Inventory**: Direct factory-screened units, pristine motherboards, zero middleman markups.
-- **Cross-Border Hardware Express**: Fast dispatch from Shenzhen/Hong Kong to global tech hobbyists and enterprise clients.
+- **Cross-Border Hardware Express**: Fast dispatch from Shenzhen / Hong Kong to global tech hobbyists and enterprise clients.
 
 ---
 
@@ -39,5 +39,5 @@ Direct maritime trade pipeline from Incheon and Busan ports to major African hub
 Have an impossible math problem to crack, need a bulk shipment of Huaqiangbei electronics, or booking a vehicle fleet?
 
 - 📲 **WhatsApp Business**: **[+82 10-2150-0690](https://wa.me/821021500690)** *(Click to start chat)*
-- 📍 **Offices**: Pangyo Techno Valley (Gyeonggi, Korea) ⇄ Huaqiangbei (Shenzhen, China)
+- 📍 **Cross-Border Hubs**: Seoul (Export & Tech) ⇄ Shenzhen / Greater Bay Area (Silicon Direct)
 - 🌐 **Available for**: International STEM curriculum design, hardware group buys, global trade syndicates.
